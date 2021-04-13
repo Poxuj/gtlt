@@ -1,5 +1,5 @@
 /**********************************************************************************
-    First Growtopia Private Server made with ENet.ų
+    First Growtopia Private Server made with ENet.
     Copyright (C) 2018  Growtopia Noobs
 
     This program is free software: you can redistribute it and/or modify
