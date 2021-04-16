@@ -68,7 +68,7 @@ char _getch() {
 
 using namespace std;
 using json = nlohmann::json;
-string newslist = "set_default_color|`o\n\nadd_label_with_icon|big|`wThe Growtopia Gazette``|left|5016|\n\nadd_spacer|small|\nadd_label_with_icon|small|`4WARNING:`` `5Worlds (and accounts)`` might be deleted at any time if database issues appear (once per day or week).|left|4|0|0|\nadd_quick_exit|\n\nend_dialog|gazette|Close||";
+string newslist = "set_default_color|`o\n\nadd_label_with_icon|big|`wThe GTLT Gazette``|left|5016|\n\nadd_spacer|small|\nadd_label_with_icon|small|`4WARNING:`` `5Worlds (and accounts)`` might be deleted at any time if database issues appear (once per day or week).|left|4|\n\nadd_spacer|small|\n\nadd_textbox|Server owners : `6@KiNG#7409|0|0|\nadd_quick_exit|\n\nend_dialog|gazette|Close||";
 
 //#define TOTAL_LOG
 #define REGISTRATION
