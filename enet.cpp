@@ -783,7 +783,7 @@ int PlayerDB::playerRegister(string username, string password, string passwordve
 	}
 	json j;
 	j["username"] = username;
-	j["password"] = hashPassword(password);
+	j["password"] = password;
 	j["email"] = email;
 	j["discord"] = discord;
 	j["adminLevel"] = 0;
